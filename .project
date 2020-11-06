@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>config-server-repo</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+	</buildSpec>
+	<natures>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>microservice-paiement.properties</name>
+			<type>1</type>
+			<location>C:/Users/IN-TL-006/Documents/magencedevoyage/config-server-repo/microservice-paiement.properties</location>
+		</link>
+	</linkedResources>
+</projectDescription>
